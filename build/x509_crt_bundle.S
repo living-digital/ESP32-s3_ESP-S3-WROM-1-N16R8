@@ -1,4 +1,4 @@
-/* * Data converted from /home/david/esp/esp-RGB_LCD/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from /home/david/esp/wifi01/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded
